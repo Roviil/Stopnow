@@ -58,4 +58,4 @@ stopnow_pub와 stopnow_sub 노드를 실행하면 pub노드에서 토픽이 발�
 
 ## 4. 시연 영상 및 최종 보고서
 
-[PPT 링크](https://www.canva.com/design/DAF3JXm8TmQ/4kXb5J3sVHR0Bdv5UV3LaQ/edit?utm_content=DAF3JXm8TmQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[PPT 링크](https://www.canva.com/design/DAF3JXm8TmQ/KtRqxQiP9qT1S5utx7xUCA/view?utm_content=DAF3JXm8TmQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
