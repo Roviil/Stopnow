@@ -1,5 +1,5 @@
 # 목차
-[0. 개요]
+[0. 개요](https://github.com/malgumi/Stopnow?tab=readme-ov-file#0-%EA%B0%9C%EC%9A%94)
 
 ## 0. 개요
 2023 컴퓨터신기술 과목 수강을 위해 진행한 프로젝트<br>
